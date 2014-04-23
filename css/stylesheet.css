@@ -1,13 +1,13 @@
 p {
   font-size: 1.2em;
-  font-family: "Helvetica-Light", Verdana, sans-serif;
+  font-family: 'Roboto Slab', Verdana, sans-serif;
   
 }
 
 h1 {
 	font-size: 3em;
-	font-family: "proxima-nova", "Helvetica Neue", sans-serif;
-	font-weight: 200;
+	font-family: 'Lato', 'Helvetica Neue', sans-serif;
+	font-weight: 900;
 	color: #252525
 }
 h4 {
