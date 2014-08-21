@@ -1,9 +1,48 @@
-{% include head.html %}
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="utf-8">
+  <meta http-equiv="X-UA-Compatible" content="IE=edge">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <meta name="description" content="{{ site.description }}">
+  <title>
+    {% if page.title == "Home" %}
+      Kaeti Hinck
+    {% else if %}
+      {{ page.title }} &middot; Kaeti Hinck
+    {% endif %}
+  </title>
 
-    <h1>{{ page.title }}</h1>
+  <meta property="og:title" content="Kaeti Hinck"/>
+  <meta property="og:type" content="website"/>
+  <meta property="og:url" content="http://kaet.io/"/>
+  <!-- TODO: Add logo -->
+  <!-- <meta property="og:image" content="{{ site.url }}/img/XXX.jpg"/> -->
+  <meta property="og:site_name" content="Kaeti Hinck"/>
+  <meta name="description" content="Work and writing by designer and journalist Kaeti Hinck.">
+  <meta name="keywords" content="Kaeti Hinck, design, journalism, digital, media, news applications, minnpost" />
+  <link rel="shortcut icon" type="image/png" href="images/favicon.png"/>
+ 
+  <link href='http://fonts.googleapis.com/css?family=Raleway:400,300|Roboto+Slab:300,400,700' rel='stylesheet' type='text/css'>
+  <link type="text/css" rel="stylesheet" href="css/main.css" />
 
+  <link rel="alternate" type="application/rss+xml" title="RSS" href="/feed.xml">
+</head>
+<body>
+  <div class="main-sidebar">
+    <h1><a href="/" class="site-name">Kaeti Hinck</a></h1>
+    <p class="subtitle">Design, journalism, making things better.</p>
+    <p class="byline">More over <a href="https://twitter.com/kaeti">@kaeti</a></p>
+
+    <hr class="main-sidebar-hr">
+
+    {% include navigation.html %}
+
+    <hr class="main-sidebar-hr">
+  </div>
+  <div class="main-container">
     {{ content }}
-
-{% include nav.html %}
-
-{% include foot.html %}
+  </div>
+  {% include analytics.html %}
+</body>
+</html>

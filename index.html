@@ -1,39 +1,33 @@
 ---
 layout: default
-title: Kaeti Hinck
+title: Home
 ---
 
-<!DOCTYPE html>
-<html lang="en-US">
-<html>
-  <head>
-    <meta charset="utf-8">
-    <meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1">
-    <meta name="viewport" content="width=device-width">
-    <!-- <meta name="description" content="Portfolio and writing by digital journalist Kaeti Hinck, MinnPost's director of news technology."> -->
-    <meta property="og:site_name" content="Kaeti Hinck">
-    <meta property="og:title" content="Kaeti Hinck">
-    <meta name="keywords" content="Kaeti Hinck, design, journalism, news applications, minnpost" />
-	<link rel="shortcut icon" type="image/png" href="images/favicon.png"/>
-	<link rel="shortcut icon" type="image/png" href="http://kaet.io/favicon.png"/>
-	<!-- TODO: Add CSS reset -->
-	<link href='http://fonts.googleapis.com/css?family=Raleway:400,300|Roboto+Slab:300,400,700' rel='stylesheet' type='text/css'>
-	<link type="text/css" rel="stylesheet" href="css/stylesheet.css" />
-	
-	<title>Kaeti Hinck</title>
-
-</head>
-
-<body>
-	<header>
-		<h1>Kaeti Hinck</h1>
-	</header>
-	<p>Is messing around with GitHub Pages. Check back later!</p>
-	
-	<section></section>
-	
-	<footer></footer>
-	
-</body>
-
-</html>
+<div id="home">
+  <ul class="posts list-unstyled">
+    {% for post in paginator.posts %}
+      <li>
+        <a href="{{ post.source }}" class="screenshot-link" target="_blank">
+          <div class="browser-frame">
+            <div class="browser-top-bar">
+              <div class="browser-button-wrapper">
+                <div class="browser-button"></div>
+                <div class="browser-button"></div>
+                <div class="browser-button"></div>
+              </div>
+              <div class="browser-address"></div>
+            </div>
+            <div class="browser-container">
+              {{ post.content }}
+            </div>
+          </div>
+        </a>
+        <div class="post-description">
+          <h3 class="post-description-title"><a href="{{ post.url }}" class="post-description-link">{{ post.title }}</a></h3>
+          <p class="post-description-date">{{ post.date | date: "%B %-d, %Y" }}</p>
+        </div>
+      </li>
+    {% endfor %}
+  </ul>
+  {% include pagination.html %}
+</div>
