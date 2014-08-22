@@ -28,9 +28,9 @@ body {
 
 h1 {
   margin-top:0;
-  font-size: 47px ;
-  font-family: 'Roboto Slab', 'Helvetica Neue', sans-serif;
-  font-weight: 300;
+  font-size: 50px ;
+  font-family: 'Roboto Slab', 'Helvetica Neue', Arial, sans-serif;
+  font-weight: 400;
   line-height: 50px;
 }
 
@@ -123,7 +123,7 @@ span.paginate {
 }
 
 a.paginate:hover {
-  background-color: #44b1f6;
+  background-color: #44b1f5;
   text-decoration: none;
   color:white;
   border-color: #44b1f6;

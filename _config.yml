@@ -1,3 +1,13 @@
-name: Your New Jekyll Site
-markdown: redcarpet
-pygments: true
+# Permalinks
+permalink:        pretty
+
+# Settings
+markdown:         kramdown
+pygments:         true
+exclude:          ["README.md"]
+paginate:         10
+encoding:         UTF-8
+future:           false
+name:             Kaeti Hinck
+url:              http://kaet.io
+description:      "Work and writing by designer and journalist Kaeti Hinck"
