@@ -2,13 +2,11 @@
 permalink:        pretty
 
 # Settings
-markdown:         kramdown
-pygments:         true
-destination:      ./_gh_pages
+name: Kaeti Hinck
+markdown: redcarpet
+pygments: true
 exclude:          ["README.md"]
 paginate:         10
 encoding:         UTF-8
-future:           false
-name:             Kaeti Hinck
 url:              http://kaet.io
 description:      "Work and writing by designer and journalist Kaeti Hinck"
