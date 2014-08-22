@@ -1,11 +1,13 @@
-
+# Permalinks
+permalink:        pretty
 
 # Settings
-name: Kaeti Hinck
-markdown: redcarpet
-pygments: true
+markdown:         kramdown
+destination:      ./_gh_pages
 exclude:          ["README.md"]
 paginate:         10
 encoding:         UTF-8
+future:           false
+name:             Kaeti Hinck
 url:              http://kaet.io
-description:      "Work and writing by designer and journalist Kaeti Hinck"
+description:      "Work and writing by designer/journalist Kaeti Hinck"
