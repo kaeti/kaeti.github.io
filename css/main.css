@@ -133,6 +133,8 @@ a.paginate:hover {
 /************/
 /* Browser */
 /************/
+/*********
+
 .browser-frame {
   border-radius: 5px;
   border: 2px solid #CCC;
@@ -178,6 +180,7 @@ a.paginate:hover {
   border-bottom-left-radius: 3px;
   border-bottom-right-radius: 3px;
 }
+*********/
 
 /* xs */
 @media (min-width: 0px) and (max-width: 767px) {
