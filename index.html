@@ -7,21 +7,12 @@ title: Home
   <ul class="posts list-unstyled">
     {% for post in paginator.posts %}
       <li>
-        <a href="{{ post.source }}" target="_blank">
-          <div class="browser-frame">
-            <div class="browser-top-bar">
-              <div class="browser-button-wrapper">
-                <div class="browser-button"></div>
-                <div class="browser-button"></div>
-                <div class="browser-button"></div>
-              </div>
-              <div class="browser-address"></div>
-            </div>
-            <div class="browser-container">
-       <!-- TODO add teaser display tag       {{ post.content }} -->
-            </div>
-          </div>
-        </a>
+         <!--  <a href="{{ post.source }}" target="_blank">
+          
+     TODO add teaser display tag       {{ post.content }} 
+            
+          
+        </a> -->
         <div class="post-description">
           <h3 class="post-description-title"><a href="{{ post.url }}" class="post-description-link">{{ post.title }}</a></h3>
           <p class="post-description-date">{{ post.date | date: "%B %-d, %Y" }}</p>
