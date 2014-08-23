@@ -25,6 +25,19 @@ body {
   font-size: 14px;
 }
 
+.profile-pic {
+	position:relative;
+    width: 100%;
+    max-width: 140px;
+	margin:10 10 10 10px;
+	border-radius: 100%; 	
+}
+
+a:hover img.profile-pic{ 
+	-moz-box-shadow: 1px 1px 5px #999; 
+	-webkit-box-shadow: 1px 1px 5px #999; 
+	box-shadow: 1px 1px 5px #999; 
+}
 
 h1 {
   margin-top:0;
