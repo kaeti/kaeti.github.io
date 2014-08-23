@@ -3,10 +3,22 @@
 {% include css/bootstrap.min.css %}
 
 body {
-  color:#7f7f7f;
+  color:#6f6f6f;
   margin: 0 20px 20px 0;
   font: 16px "Raleway", Verdana, Arial, sans-serif;
   line-height: 27px;
+}
+
+a {
+	color: #0b8da1;
+	text-decoration: none;
+}
+
+a:hover {
+	color: #137291;
+	text-decoration: underline;
+	font-weight: 500;
+	
 }
 
 .site-name {
@@ -15,7 +27,8 @@ body {
 
 .site-name:hover {
   text-decoration: none;
-  color:#616161;
+  color:#137291;
+  font-weight: 400;
 }
 
 .main-sidebar {
@@ -48,7 +61,8 @@ h1 {
 }
 
 h2 {
-  color: #2e2e2e;
+  color: #5a5a5a;
+  font-weight: 400;
 }
 
 .subtitle {
@@ -76,7 +90,7 @@ h2 {
 /*************** TO DO: STYLE POSTS **************/
 
 .posts {
-  max-width: 900px;
+  max-width: 800px;
 }
 
 .posts li {
@@ -93,7 +107,7 @@ h2 {
 }
 
 .post-description-date {
-  color: #a2a2a2;
+  color: #a3a3a3;
 }
 
 .post-description-link {
@@ -105,32 +119,41 @@ h2 {
 /*************/
 .paginator {
   width:100%;
-  max-width: 1004px;
+  max-width: 800px;
   margin-bottom:40px;
   float:left;
+ 
 }
 .paginate {
   display:block;
   float:left;
-  width:50%;
-  padding:20px 0;
+  width:20%; 
+  padding:20px ;
   text-align: center;
   font-weight: bold;
   font-size: 18px;
+  
 }
 
 .paginate.older {
-  border-top-left-radius: 5px;
+  border-radius: 15px;
+  border: 1px solid #e5e5e5;
+  margin: 0 40px 0 210px;
+ 
+  //** border-top-left-radius: 5px;
   border-bottom-left-radius: 5px;
   border-top: 1px solid #e5e5e5;
   border-left: 1px solid #e5e5e5;
-  border-bottom: 1px solid #e5e5e5;
+  border-bottom: 1px solid #e5e5e5; **//
 }
 
 .paginate.newer {
-  border-top-right-radius: 5px;
-  border-bottom-right-radius: 5px;
+  border-radius: 15px;
   border: 1px solid #e5e5e5;
+ 
+  /** border-top-right-radius: 5px;
+  border-bottom-right-radius: 5px;
+  border: 1px solid #e5e5e5; **/
 }
 
 span.paginate {
@@ -161,7 +184,15 @@ a.paginate:hover {
   .main-container {
     margin: 40px 0 0 20px;
   }
-
+  
+  .paginate.older {
+    margin: 0 10px 0 40px;
+  }
+  .paginate {
+    width:40%; 
+    padding:20px ;
+  }
+  
   .browser-address {
     width:74%;
     height: 10px;
