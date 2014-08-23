@@ -3,6 +3,6 @@ name: Kaeti Hinck
 markdown: redcarpet
 permalink: pretty
 pygments: true
-url:              "http://localhost:4000"
+url:              "http://kaet.io"
 description:      "Work and writing by designer and journalist Kaeti Hinck"
-paginate:         10
+paginate:         1
