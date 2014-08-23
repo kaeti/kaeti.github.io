@@ -1,7 +1,8 @@
 
 name: Kaeti Hinck
 markdown: redcarpet
+permalink: pretty
 pygments: true
-url:              http://kaet.io
+url:              "http://localhost:4000"
 description:      "Work and writing by designer and journalist Kaeti Hinck"
 paginate:         10
