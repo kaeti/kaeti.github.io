@@ -62,7 +62,8 @@ h1 {
 
 h2 {
   color: #5a5a5a;
-  font-weight: 400;
+  font-weight: 500;
+  margin: 0 0 20px 0;
 }
 
 .subtitle {
@@ -76,18 +77,22 @@ h2 {
 }
 
 .main-container {
-  margin:40px 0 0 310px;
+  margin:40px 0 0 375px;
 }
 
 .main-sidebar-hr {
   margin: 30px 0;
 }
 
-.screenshot-link:hover {
-  text-decoration: none;
+/*************** PAGES ***************/
+
+.pages li {
+  margin-bottom: 20px;
+  font-size: 18px;
+	
 }
 
-/*************** TO DO: STYLE POSTS **************/
+/*************** TO DO: STYLE   **************/
 
 .posts {
   max-width: 800px;
