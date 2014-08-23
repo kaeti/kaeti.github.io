@@ -15,7 +15,7 @@ body {
 
 .site-name:hover {
   text-decoration: none;
-  color:#3f3f3f;
+  color:#616161;
 }
 
 .main-sidebar {
@@ -48,7 +48,7 @@ h1 {
 }
 
 h2 {
-  color: black;
+  color: #2e2e2e;
 }
 
 .subtitle {
@@ -73,8 +73,10 @@ h2 {
   text-decoration: none;
 }
 
+/*************** TO DO: STYLE POSTS **************/
+
 .posts {
-  max-width: 1004px;
+  max-width: 900px;
 }
 
 .posts li {
@@ -95,7 +97,7 @@ h2 {
 }
 
 .post-description-link {
-  color: #137392;
+  color: #137291;
 }
 
 /*************/
@@ -136,64 +138,13 @@ span.paginate {
 }
 
 a.paginate:hover {
-  background-color: #44b1f5;
+  background-color: #137291;
   text-decoration: none;
   color:white;
-  border-color: #44b1f6;
+  border-color: #137291;
 }
 
 
-/************/
-/* Browser */
-/************/
-/*********
-
-.browser-frame {
-  border-radius: 5px;
-  border: 2px solid #CCC;
-  width:100%;
-  max-width: 1004px;
-}
-
-.browser-top-bar {
-  border-bottom: 2px solid #CCC;
-  width:100%;
-  float:left;
-}
-
-.browser-address {
-  border-radius: 5px;
-  background: #efefef;
-  height: 25px;
-  float:right;
-  margin: 10px;
-}
-
-.browser-button-wrapper {
-  padding: 9px 0 0 10px;
-  float:left;
-}
-
-.browser-button {
-  display:inline-block;
-  width: 10px;
-  height: 10px;
-  border-radius: 50%;
-  background-color: #CCC;
-}
-
-.browser-container > p {
-  padding:0;
-  margin:0;
-}
-
-.browser-container img {
-  width: 100%;
-  max-width: 1000px;
-  border-bottom-left-radius: 3px;
-  border-bottom-right-radius: 3px;
-}
-*********/
 
 /* xs */
 @media (min-width: 0px) and (max-width: 767px) {
