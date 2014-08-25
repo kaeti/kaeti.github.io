@@ -3,6 +3,7 @@ name: Kaeti Hinck
 markdown: redcarpet
 permalink: pretty
 pygments: true
-url:              "http://kaet.io"
-description:      "Work and writing by designer and journalist Kaeti Hinck"
-paginate:         1
+url: "http://kaet.io"
+description: "Work and writing by designer and journalist Kaeti Hinck"
+paginate: 1
+markdown_ext: "markdown,mkdown,mkdn,mkd,md"
