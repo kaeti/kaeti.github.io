@@ -2,7 +2,7 @@
 name: Kaeti Hinck
 markdown: kramdown
 permalink: pretty
-pygments: true
+highlighter: pygments
 url: "http://kaet.io"
 description: "Work and writing by designer and journalist Kaeti Hinck"
 paginate: 1
