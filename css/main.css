@@ -93,6 +93,11 @@ h2 {
 
 /*************** PAGES ***************/
 
+
+.pages {
+  max-width: 800px;
+}
+
 .pages li {
   margin-bottom: 20px;
  
@@ -147,7 +152,7 @@ a.pages {
   display:block;
   float:left;
   width:20%; 
-  padding:20px ;
+  padding:10px ;
   text-align: center;
   font-weight: bold;
   font-size: 18px;
@@ -157,13 +162,14 @@ a.pages {
 .paginate.older {
   border-radius: 15px;
   border: 1px solid #e5e5e5;
-  margin: 0 40px 0 210px;
+  margin: 20px 40px 0 210px;
  
 }
 
 .paginate.newer {
   border-radius: 15px;
   border: 1px solid #e5e5e5;
+  margin: 20px 0 0 0;
 
 }
 
@@ -199,6 +205,11 @@ a.paginate:hover {
   .paginate.older {
     margin: 0 10px 0 40px;
   }
+  
+  .paginate.newer {
+    margin: 0px;
+  }
+  
   .paginate {
     width:40%; 
     padding:20px ;
