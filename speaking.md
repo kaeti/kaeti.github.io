@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Speaking & Events
+title: Speaking
 ---
 
 ##Upcoming events
@@ -11,7 +11,8 @@ Leading Friday's panel, "Big Impact With Small Teams: Designing a Kick-Ass Proce
 **MozFest 2014, London | Oct. 23-27**  
 Facilitating a session for the Source Code for Journalism track, "Building a radically open editorial process"
 
-**Newgeist 2014, Phoenix | Nov. 14-16**
+**Newgeist 2014, Phoenix | Nov. 14-16**  
+
 
 
 ###Previously
@@ -40,8 +41,9 @@ Spoke on panel about designing for all devices.
 Gave lightning talk about MinnPost's transition to Drupal and our open-source data projects.
 
 **Hacks/Hackers Twin Cities | March 26, 2012**  
-Spoke about MinnPost's redesign and data projects. 
+Spoke about MinnPost's redesign and data projects.  
 
 
+  
 ###Get in touch
 If you'd like to be in touch about a speaking opportunity, send a note to <mailto:krhinck@gmail.com>. I'd love to hear from you.
