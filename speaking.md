@@ -5,44 +5,44 @@ title: Speaking
 
 ##Upcoming events
 
-**ONA 2014, Chicago | Sept. 24-26**  
+**ONA 2014, Chicago — Sept. 24-26**  
 Leading Friday's panel, "Big Impact With Small Teams: Designing a Kick-Ass Process for the Small and Scrappy News App Team"
 
-**MozFest 2014, London | Oct. 23-27**  
+**MozFest 2014, London — Oct. 23-27**  
 Facilitating a session for the Source Code for Journalism track, "Building a radically open editorial process"
 
-**Newsgeist 2014, Phoenix | Nov. 14-16**  
+**Newsgeist 2014, Phoenix — Nov. 14-16**  
 
   
 **NICAR 2015, Atlanta**  
 
 
 ###Previously
-**SRCCON 2014, Philadelphia | July 24-25**  
+**SRCCON 2014, Philadelphia — July 24-25**  
 Facilitated collaborative session on making things happen with small teams. More details here: <https://etherpad.mozilla.org/YVbzoybg2G>
 
-**IRE 2014, San Francisco | June 26-29**  
+**IRE 2014, San Francisco — June 26-29**  
 Co-led the membership discussion for INN Day and participated in a Sunday panel on open source tools for journalists.
 
-**AdaCamp Portland | June 20-21**  
+**AdaCamp Portland — June 20-21**  
 AdaCamp is an unconference for women in open technology and culture. AdaCamp brings women together to build community, discuss issues women have in common across open technology and culture fields, and find ways to address them. More info: <http://portland.adacamp.org/>
 
-**NTEN's Nonprofit Technology Conference, Washington, D.C. | March 12-15**  
+**NTEN Nonprofit Technology Conference, Washington, D.C. — March 12-15**  
 Participated in both Drupal Day and the main conference. Learned an enormous amount about membership programs and how to measure success of fundraising/recruitment tactics.
 
-**NICAR 2014, Baltimore | Feb. 27-March 1**  
+**NICAR 2014, Baltimore — Feb. 27-March 1**  
 For my third NICAR conference, I had the pleasure of attending with my entire team at MinnPost (Tom and Alan). Added bonus of visiting my brother and niece who lived in Baltimore at the time.
 
-**Best of the Midwest College Journalism Convention | Feb. 7-8**  
+**Best of the Midwest College Journalism Convention — Feb. 7-8**  
 Led round-table discussion for the "Break with a Pro" part of the event.
 
-**SND Quick Course Design Panel, Minneapolis | July 12, 2013**  
+**SND Quick Course Design Panel, Minneapolis — July 12, 2013**  
 Spoke on panel about designing for all devices.
 
-**NTEN 2013 Drupal Day, Minneapolis | April 11, 2013**  
+**NTEN 2013 Drupal Day, Minneapolis — April 11, 2013**  
 Gave lightning talk about MinnPost's transition to Drupal and our open-source data projects.
 
-**Hacks/Hackers Twin Cities | March 26, 2012**  
+**Hacks/Hackers Twin Cities — March 26, 2012**  
 Spoke about MinnPost's redesign and data projects.  
 
 
