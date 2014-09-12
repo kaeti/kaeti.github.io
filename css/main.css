@@ -94,8 +94,14 @@ h2 {
 /*************** PAGES ***************/
 
 
+
 .pages {
   max-width: 800px;
+}
+
+.page-description-title {
+  font-size: 60px;
+  text-align: center;
 }
 
 .pages li {

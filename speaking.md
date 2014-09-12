@@ -11,7 +11,7 @@ Leading Friday's panel, "Big Impact With Small Teams: Designing a Kick-Ass Proce
 **MozFest 2014, London | Oct. 23-27**  
 Facilitating a session for the Source Code for Journalism track, "Building a radically open editorial process"
 
-**Newgeist 2014, Phoenix | Nov. 14-16**  
+**Newsgeist 2014, Phoenix | Nov. 14-16**  
 
 
 
