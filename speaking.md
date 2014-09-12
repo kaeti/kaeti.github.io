@@ -13,6 +13,8 @@ Facilitating a session for the Source Code for Journalism track, "Building a rad
 
 **Newsgeist 2014, Phoenix | Nov. 14-16**  
 
+  
+**NICAR 2015, Atlanta**  
 
 
 ###Previously
