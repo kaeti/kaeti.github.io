@@ -12,10 +12,10 @@ Leading Friday's panel, "Big Impact With Small Teams: Designing a Kick-Ass Proce
 Facilitating a session for the Source Code for Journalism track, "Building a radically open editorial process"
 
 **Newsgeist 2014, Phoenix — Nov. 14-16**  
-
-  
+    
 **NICAR 2015, Atlanta**  
-
+  
+.
 
 ###Previously
 **SRCCON 2014, Philadelphia — July 24-25**  
@@ -25,7 +25,7 @@ Facilitated collaborative session on making things happen with small teams. More
 Co-led the membership discussion for INN Day and participated in a Sunday panel on open source tools for journalists.
 
 **AdaCamp Portland — June 20-21**  
-AdaCamp is an unconference for women in open technology and culture. AdaCamp brings women together to build community, discuss issues women have in common across open technology and culture fields, and find ways to address them. More info: <http://portland.adacamp.org/>
+AdaCamp is an unconference for women in open technology and culture. It brings women together to build community, discuss issues women have in common across open technology and culture fields, and find ways to address them. More info: <http://portland.adacamp.org/>
 
 **NTEN Nonprofit Technology Conference, Washington, D.C. — March 12-15**  
 Participated in both Drupal Day and the main conference. Learned an enormous amount about membership programs and how to measure success of fundraising/recruitment tactics.
@@ -45,7 +45,7 @@ Gave lightning talk about MinnPost's transition to Drupal and our open-source da
 **Hacks/Hackers Twin Cities — March 26, 2012**  
 Spoke about MinnPost's redesign and data projects.  
 
-
+.
   
 ###Get in touch
 If you'd like to be in touch about a speaking opportunity, send a note to <mailto:krhinck@gmail.com>. I'd love to hear from you.
