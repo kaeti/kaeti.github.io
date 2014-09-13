@@ -3,7 +3,7 @@ layout: page
 title: Speaking
 ---
 
-##Upcoming events
+###Upcoming events
 
 **ONA 2014, Chicago — Sept. 24-26**  
 Leading Friday's panel, "Big Impact With Small Teams: Designing a Kick-Ass Process for the Small and Scrappy News App Team"
