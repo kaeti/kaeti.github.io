@@ -5,8 +5,6 @@ title: Speaking
 
 ###Upcoming events
 
-**ONA 2014, Chicago — Sept. 24-26**  
-Leading Friday's panel, "Big Impact With Small Teams: Designing a Kick-Ass Process for the Small and Scrappy News App Team"
 
 **MozFest 2014, London — Oct. 23-27**  
 Facilitating a session for the Source Code for Journalism track, "Building a radically open editorial process"
@@ -18,6 +16,9 @@ Facilitating a session for the Source Code for Journalism track, "Building a rad
 .
 
 ###Previously
+**ONA 2014, Chicago — Sept. 24-26**  
+Led Friday's panel, "Big Impact With Small Teams: Designing a Kick-Ass Process for the Small and Scrappy News App Team." Collaborative notes here: <http://bit.ly/ONA14impact>
+  
 **SRCCON 2014, Philadelphia — July 24-25**  
 Facilitated collaborative session on making things happen with small teams. More details here: <https://etherpad.mozilla.org/YVbzoybg2G>
 
