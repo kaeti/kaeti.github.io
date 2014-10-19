@@ -3,7 +3,7 @@ layout: page
 title: About
 ---
 
-I'm a designer and digital journalist based in Minneapolis. Most recently I've been leading the [news apps team](http://www.minnpost.com/data) at MinnPost, where I also manage web development/design and lead strategic digital projects. 
+I'm a designer and digital journalist based in Minneapolis. I recently joined the [Investigative News Network](http://www.investigativenewsnetwork.org) as design director. Before that I was leading the [news apps team](http://www.minnpost.com/data) at MinnPost, where I also managed web development/design and led strategic digital projects. 
 
 I believe in user-driven design, journalism that solves problems, testing assumptions, iterative change, open source, hiring people who are smarter than me, admitting what I don't know, and leaving things better than I found them. Kindness or GTFO. 
 
