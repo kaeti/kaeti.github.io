@@ -196,7 +196,7 @@ a.pages {
 /*************/
 .paginator {
   width:100%;
-  max-width: 800px;
+  max-width: 750px;
   margin-bottom:40px;
   float:left;
  
@@ -207,8 +207,9 @@ a.pages {
   width:20%; 
   padding:10px ;
   text-align: center;
-  font-weight: bold;
+  font-weight: 700;
   font-size: 18px;
+  font-family: 'Roboto Condensed', 'Helvetica Neue', sans-serif;
   
 }
 
