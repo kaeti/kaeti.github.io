@@ -13,9 +13,12 @@ Facilitating a session for the Source Code for Journalism track, "Building a rad
     
 **NICAR 2015, Atlanta**  
   
-.
+---
 
 ###Previously
+**SND Makes, Boston — Oct. 17-19**  
+Attended SND's second news design event. Our team built [hmpgr](https://github.com/Upstatement/snd_layout_editor), a layout editor to help you seamlessly handle your homepage.
+
 **ONA 2014, Chicago — Sept. 24-26**  
 Led Friday's panel, "Big Impact With Small Teams: Designing a Kick-Ass Process for the Small and Scrappy News App Team." Collaborative notes here: <http://bit.ly/ONA14impact>
   

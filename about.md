@@ -9,7 +9,7 @@ I believe in user-driven design, journalism that solves problems, testing assump
 
 You can also find me [@kaeti](http://twitter.com/kaeti).
 
-### Credits
+### Site credits
 Inspired by [Beautiful Open](http://beautifulopen.com/), which was in turn inspired by [Bootstrap Expo](http://expo.getbootstrap.com/)
 and [Built With Ember](http://builtwithember.io/). It's built with
 [Jekyll](http://jekyllrb.com), developed on
