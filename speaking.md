@@ -6,9 +6,6 @@ title: Speaking
 ###Upcoming events
 
 
-**MozFest 2014, London — Oct. 23-27**  
-Facilitating a session for the Source Code for Journalism track, "Building a radically open editorial process"
-
 **Newsgeist 2014, Phoenix — Nov. 14-16**  
     
 **NICAR 2015, Atlanta**  
@@ -16,6 +13,13 @@ Facilitating a session for the Source Code for Journalism track, "Building a rad
 ---
 
 ###Previously
+
+**MozFest 2014, London — Oct. 23-27**  
+Facilitated a session for the Source Code for Journalism track, "Building a radically open editorial process"
+
+**Innovation in the Newsroom panel, Minneapolis — Nov. 3**  
+At the University of Minnesota as part of the Murrow Fellows program.
+
 **SND Makes, Boston — Oct. 17-19**  
 Attended SND's second news design event. Our team built [hmpgr](https://github.com/Upstatement/snd_layout_editor), a layout editor to help you seamlessly handle your homepage.
 
@@ -48,8 +52,9 @@ Gave lightning talk about MinnPost's transition to Drupal and our open-source da
 
 **Hacks/Hackers Twin Cities — March 26, 2012**  
 Spoke about MinnPost's redesign and data projects.  
+  
 
-.
+---
   
 ###Get in touch
 If you'd like to be in touch about a speaking opportunity, send a note to <mailto:krhinck@gmail.com>. I'd love to hear from you.
