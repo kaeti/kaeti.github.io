@@ -3,16 +3,29 @@ layout: page
 title: Speaking
 ---
 
+
+
+###Get in touch
+If you'd like to be in touch about a speaking opportunity, send a note to <mailto:krhinck@gmail.com>. I'd love to hear from you.
+
+---
+
 ###Upcoming events
 
+**MozFest 2015**  
+ 
 
-**Newsgeist 2014, Phoenix — Nov. 14-16**  
-    
-**NICAR 2015, Atlanta**  
-  
 ---
 
 ###Previously
+
+**SRCCON 2015, Minneapolis — June 25-26**  
+Co-facilitated session on [maintaining momentum](http://bit.ly/aftersrccon) outside of conferences.
+
+**NICAR 2015, Atlanta — March 5-8**  
+[Visual journalism for tiny news desks](https://www.ire.org/events-and-training/event/1494/1732/). 
+
+**Newsgeist 2014, Phoenix — Nov. 14-16** 
 
 **MozFest 2014, London — Oct. 23-27**  
 Facilitated a session for the Source Code for Journalism track, "Building a radically open editorial process"
@@ -54,7 +67,4 @@ Gave lightning talk about MinnPost's transition to Drupal and our open-source da
 Spoke about MinnPost's redesign and data projects.  
   
 
----
   
-###Get in touch
-If you'd like to be in touch about a speaking opportunity, send a note to <mailto:krhinck@gmail.com>. I'd love to hear from you.
