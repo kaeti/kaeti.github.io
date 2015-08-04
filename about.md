@@ -3,7 +3,7 @@ layout: page
 title: About
 ---
 
-I've been working with journalism and technology for more than 10 years. Over the years, I've been an editor, a director of technology, a designer, a photojournalist, a team leader, and a product manager. Regardless of roles and titles, I'm happiest when I'm solving important problems with smart people — and helping my team do their best work. 
+I've been working with journalism and technology for more than 10 years. I've been an editor, a director of technology, a designer, a photojournalist, a team leader, and a product manager. Regardless of roles and titles, I'm happiest when I'm solving important problems with smart people — and helping my team do their best work. 
 
 I'm currently the design director for the [Institute for Nonprofit News](http://www.inn.org). Our product team works to support independent journalism organizations in a number of ways: building and supporting [open source tools](http://largoproject.org), publishing [extensive documentation](http://github.com/inn/docs), and offering consulting and web development. Earlier this year, I managed the [redesign of INN's visual identity](http://nerds.inn.org/2015/03/10/how-we-redesigned-inn-in-60-days/).
 
