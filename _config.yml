@@ -2,7 +2,7 @@
 name: Kaeti Hinck
 markdown: kramdown
 permalink: pretty
-highlighter: pygments
+highlighter: rouge
 url: "http://kaet.io"
 description: "Minneapolis designer and journalist Kaeti Hinck"
 paginate: 1
